@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsynchroneConsole", "AtelierAsynchrone\AsynchroneConsole.csproj", "{A319DCC0-1F7C-4D6B-9270-61F161940BA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchroneConsole", "AsynchroneConsole\AsynchroneConsole.csproj", "{F5D15DE9-661E-40CC-A786-6768D31B1254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A319DCC0-1F7C-4D6B-9270-61F161940BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A319DCC0-1F7C-4D6B-9270-61F161940BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A319DCC0-1F7C-4D6B-9270-61F161940BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A319DCC0-1F7C-4D6B-9270-61F161940BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D15DE9-661E-40CC-A786-6768D31B1254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D15DE9-661E-40CC-A786-6768D31B1254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D15DE9-661E-40CC-A786-6768D31B1254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D15DE9-661E-40CC-A786-6768D31B1254}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BF705CB4-4B79-45E9-B0C2-F16194045F6C}
+		SolutionGuid = {4B9E3DAA-B3FE-4614-AAE2-F47AC716CA88}
 	EndGlobalSection
 EndGlobal
