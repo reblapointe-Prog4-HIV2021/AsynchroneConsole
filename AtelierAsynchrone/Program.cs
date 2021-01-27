@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace AtelierAsynchrone
+namespace AsynchroneConsole
 {
     public class Pain
     {
@@ -19,6 +19,7 @@ namespace AtelierAsynchrone
         {
             await Task.Delay(3000);
         }
+
         private async Task<Pain> FaireDuPainAsync()
         {
             Console.WriteLine("Je mélange les ingrédients\n");
